@@ -10,8 +10,9 @@
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=xXNinjaKingXx&show_icons=true&theme=dracula)](https://github.com/xXNinjaKingXx)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXNinjaKingXx&layout=compact&theme=dracula)](https://github.com/xXNinjaKingXx)
+## Languages i know
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXNinjaKingXx&layout=compact&theme=dracula)](https://github.com/xXNinjaKingXx)
 ![C#](https://raw.githubusercontent.com/xXNinjaKingXx/xXNinjaKingXx/main/icons/C%23.png)
 
 ## My Trophies.
