@@ -1,6 +1,6 @@
 ### Who am I?
 
-Hi im Ninja_King i make plugin's and extra commands for a sandbox game called **Classicube** as of right now i only know how to code in **C#**, but i am learing **Python** and.
+Hi im Ninja_King i make plugin's and extra commands for a sandbox game called **Classicube** as of right now i only know how to code in **C#**, but i am learing **Python** and will learn other languages in the future.
 
 ### What i am working on currently.
 
