@@ -12,7 +12,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXNinjaKingXx&layout=compact&theme=dracula)](https://github.com/xXNinjaKingXx)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=xXNinjaKingXx&theme=dracula)](https://github.com/xXNinjaKingXx)
-
 ![C#](https://raw.githubusercontent.com/xXNinjaKingXx/xXNinjaKingXx/main/icons/C%23.png)
 
+## My Trophies.
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=xXNinjaKingXx&theme=dracula)](https://github.com/xXNinjaKingXx)
