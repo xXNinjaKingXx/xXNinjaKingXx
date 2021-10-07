@@ -14,4 +14,4 @@
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=xXNinjaKingXx&theme=dracula)](https://github.com/xXNinjaKingXx)
 
-![C#](https://raw.githubusercontent.com/xXNinjaKingXx/xXNinjaKingXx/master/icons/C#.png)
+![C#](https://raw.githubusercontent.com/xXNinjaKingXx/xXNinjaKingXx/icons/C#.png)
