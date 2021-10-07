@@ -4,7 +4,7 @@ Hi im Ninja_King i make plugin's and extra commands for a sandbox game called **
 
 ### What i am working on
 
-[CC Plugins/Commands](https://github.com/xXNinjaKingXx/ClassiCube-Extra-Commands-Plugins)
+[**CC Plugins/Commands**](https://github.com/xXNinjaKingXx/ClassiCube-Extra-Commands-Plugins)
 
 ### My status.
 
