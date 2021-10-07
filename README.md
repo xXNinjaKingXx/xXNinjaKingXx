@@ -9,6 +9,9 @@
 # My github statistics.
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=xXNinjaKingXx&show_icons=true&theme=dracula)](https://github.com/xXNinjaKingXx)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xXNinjaKingXx&layout=compact&theme=dracula)](https://github.com/xXNinjaKingXx)
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=xXNinjaKingXx&theme=dracula)](https://github.com/xXNinjaKingXx)
+
+![C#](https://raw.githubusercontent.com/xXNinjaKingXx/xXNinjaKingXx/master/icons/C#.png)
