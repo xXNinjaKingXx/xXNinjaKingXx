@@ -18,4 +18,4 @@
 
 ## My Trophies.
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=xXNinjaKingXx&theme=dracula)](https://github.com/xXNinjaKingXx)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=xXNinjaKingXx&theme=dark)](https://github.com/xXNinjaKingXx)
