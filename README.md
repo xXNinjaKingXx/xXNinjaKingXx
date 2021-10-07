@@ -7,11 +7,13 @@
 
 ### [**CC Plugins/Commands**](https://github.com/xXNinjaKingXx/ClassiCube-Extra-Commands-Plugins) 
 
-[ClassiCube](https://ClassiCube.net) is a free to play online multiplayer sandbox game like Classic.
+**[ClassiCube](https://ClassiCube.net) is a free to play online multiplayer sandbox game like Classic.**
 
 #### There are multiple servers, these are 4 main servers ([New Blood Zombie Survival](http://www.classicube.net/server/play/9a4f67295bc13a25209cbeb1fac82f8f/), [Puissant Royal](http://www.classicube.net/server/play/8fed14c4886c97289b556f08e2769b63/), [Not Awesome 2](http://www.classicube.net/server/play/3652c491f953de63f8779de425798ad2/), and [Jacob_'s CTF.](http://www.classicube.net/server/play/3e7acd4930ddbc201293099fed31bf11/)). 
 
-You also have the option to make/run your own server thats where mine and many other people's plugins/commands come in. Server owners can freely use these public commands and plugins on there server.
+**You also have the option to make/run your own server thats where mine and many other people's plugins/commands come in. Server owners can freely use these public commands and plugins on there server to make it a better server then it already is!.**
+
+[More Plugins/Commands](https://github.com/derekdinan/classicube-stuff)
 
 # My github statistics.
 
