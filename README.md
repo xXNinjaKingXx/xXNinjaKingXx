@@ -1,6 +1,7 @@
 # Who am I?
 
-### Hi im Ninja_King(call me Nin or Ninja for short) i make plugin's and extra commands for a sandbox game called **Classicube** as of right now i only know how to code in **C#**, but i am learing **Python** and will learn other languages in the future.
+### Hi im Ninja_King you can call me Nin.
+### I make plugin's and extra commands for a sandbox game called [**Classicube**](https://ClassiCube.net) as of right now i only know how to code in **C#**, but i am learing **Python** and will learn other languages in the future.
 
 # What i am working on currently.
 
