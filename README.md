@@ -2,6 +2,9 @@
 
 ### Hi im Ninja_King you can call me Nin.
 
+# How old am i?
+
+### I am currently 16 years old. 😂😂😂
 # What do i do?
 
 ### I make plugin's and extra commands for a sandbox game called [**Classicube**](https://ClassiCube.net) as of right now i only know how to code in **C#**, but i am learning **Python** and will learn other languages in the future.
