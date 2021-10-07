@@ -14,8 +14,11 @@
 **You also have the option to make/run your own server thats where mine and many other people's plugins/commands come in. Server owners can freely use these public commands and plugins on there server to make it a better server then it already is!.**
 
 Other users that make plugins/commands for ClassiCube.
+
 [Venk](https://github.com/derekdinan/classicube-stuff)
+
 [Goodly](https://github.com/NotAwesome2)
+
 [UnknownShadows200](https://github.com/ClassiCube/MCGalaxy-Plugins)
 
 # My github statistics.
