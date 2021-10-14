@@ -21,11 +21,7 @@
 
 Other users that make plugins/commands for ClassiCube.
 
-[Venk](https://github.com/derekdinan/classicube-stuff)
-
-[Goodly](https://github.com/NotAwesome2)
-
-[UnknownShadows200](https://github.com/ClassiCube/MCGalaxy-Plugins)
+[Venk](https://github.com/derekdinan/classicube-stuff), [Goodly](https://github.com/NotAwesome2), [UnknownShadows200](https://github.com/ClassiCube/MCGalaxy-Plugins)
 
 # My github statistics.
 
