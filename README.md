@@ -1,6 +1,6 @@
 # Who am i?
 
-### Hi im Ninja_King you can call me Nin.
+### Hi im Nin.
 
 
 # What do i do?
